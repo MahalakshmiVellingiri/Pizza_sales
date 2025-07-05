@@ -1,0 +1,22 @@
+[
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Pizza_sales/refs/heads/main/orders.csv",
+        "p_sink_folder" : "orders",
+        "p_sink_file" : "orders.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Pizza_sales/refs/heads/main/order_details.csv",
+        "p_sink_folder" : "order_details",
+        "p_sink_file" : "order_details.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Pizza_sales/refs/heads/main/pizza_types.csv",
+        "p_sink_folder" : "pizza_types",
+        "p_sink_file" : "pizza_types.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Pizza_sales/refs/heads/main/pizzas.csv",
+        "p_sink_folder" : "pizzas",
+        "p_sink_file" : "pizzas.csv"
+    }
+]
